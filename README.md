@@ -1,13 +1,13 @@
 ## 👋 E aí?
-Sou o Felipe, estudante de Engenharia de Software e Desenvolvedor Backend, trabalhando com C# e .NET.
+Sou o Felipe, estudante de Engenharia de Software e Desenvolvedor Backend, trabalhando com Java e Spring Boot.
 
 ## 🚀 Sobre Mim  
 - 🎓 Cursando Engenharia de Software na Jala University  
-- 💻 Focado em backend usando C# e .NET  
-- 🔍 Atualmente aprendendo .NET mais a fundo e expandindo meu conhecimento na plataforma  
+- 💻 Focado em backend usando Java e Spring Boot  
+- 🔍 Atualmente aprendendo Java mais a fundo e expandindo meu conhecimento no ecossistema  
 
 # Tecnologias e Ferramentas  
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring&perline=3)](https://skillicons.dev) 
 
 # Contato
 <div>
