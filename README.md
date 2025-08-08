@@ -1,15 +1,16 @@
-## 👋 E aí?
-Sou o Felipe, estudante de Engenharia de Software e Desenvolvedor Backend, trabalhando com Java e Spring Boot.
+## 👋 Olá!
+Sou o Felipe, desenvolvedor em formação, atualmente focado em **JavaScript** e **ServiceNow**, explorando o desenvolvimento web e automações.
 
 ## 🚀 Sobre Mim  
-- 🎓 Cursando Engenharia de Software na Jala University  
-- 💻 Focado em backend usando Java e Spring Boot  
-- 🔍 Atualmente aprendendo Java mais a fundo e expandindo meu conhecimento no ecossistema  
+- 📚 Estudando JavaScript e desenvolvimento para ServiceNow  
+- 🔍 Interesse em backend, integrações e automações de processos  
+- 🌱 Sempre aprendendo 
 
-# Tecnologias e Ferramentas  
-[![My Skills](https://skillicons.dev/icons?i=java,spring&perline=3)](https://skillicons.dev) 
+## 🛠️ Tecnologias e Ferramentas  
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git&perline=4)](https://skillicons.dev)  
+*(em aprendizado: ServiceNow)*
 
-# Contato
+## 📫 Contato
 <div>
   <a href="https://x.com/epilef___">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
