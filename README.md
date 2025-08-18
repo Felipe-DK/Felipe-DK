@@ -1,14 +1,13 @@
 ## 👋 Olá!
-Sou o Felipe, desenvolvedor em formação, atualmente focado em **JavaScript** e **ServiceNow**, explorando o desenvolvimento web e automações.
+Sou o Felipe, desenvolvedor em formação, atualmente focado em **JavaScript** e **Node.js**, explorando desenvolvimento web, backend e automações.
 
 ## 🚀 Sobre Mim  
-- 📚 Estudando JavaScript e desenvolvimento para ServiceNow  
-- 🔍 Interesse em backend, integrações e automações de processos  
-- 🌱 Sempre aprendendo 
+- 📚 Estudando JavaScript, Node.js e ecossistema de desenvolvimento web  
+- 🔍 Interesse em backend, APIs, integrações e automações de processos  
+- 🌱 Sempre aprendendo e praticando através de desafios e projetos
 
 ## 🛠️ Tecnologias e Ferramentas  
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,git&perline=4)](https://skillicons.dev)  
-*(em aprendizado: ServiceNow)*
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,html,css,git&perline=4)](https://skillicons.dev)
 
 ## 📫 Contato
 <div>
