@@ -1,15 +1,18 @@
 ## 👋 Olá!
-Sou o Felipe, desenvolvedor em formação, atualmente focado em **JavaScript** e **Node.js**, explorando desenvolvimento web, backend e automações.
+Sou o Felipe, desenvolvedor de software com foco no ecossistema **Java**. Minha paixão é construir aplicações backend eficientes e robustas utilizando tecnologias como **Spring Boot**.
 
-## 🚀 Sobre Mim  
-- 📚 Estudando JavaScript, Node.js e ecossistema de desenvolvimento web  
-- 🔍 Interesse em backend, APIs, integrações e automações de processos  
-- 🌱 Sempre aprendendo e praticando através de desafios e projetos
+## 🚀 Sobre Mim
+- 📚 Estudando Java, Spring Framework e boas práticas de Programação Orientada a Objetos.
+- 🔍 Interesse em desenvolvimento de APIs RESTful, arquitetura de microsserviços e acesso a dados com JPA/Hibernate.
+- 🌱 Buscando constantemente aprimorar minhas habilidades com novos desafios e projetos práticos.
 
-## 🛠️ Tecnologias e Ferramentas  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+## 🛠️ Tecnologias e Ferramentas
+[![Java](https://img.shields.io/badge/-Java-E96424?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 
 ## 📫 Contato
 <div>
