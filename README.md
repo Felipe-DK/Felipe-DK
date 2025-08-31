@@ -9,7 +9,6 @@ Sou o Felipe, desenvolvedor de software com foco no ecossistema **Java**. Minha 
 ## 🛠️ Tecnologias e Ferramentas
 [![Java](https://img.shields.io/badge/-Java-E96424?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
