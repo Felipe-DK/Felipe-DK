@@ -1,5 +1,5 @@
 ## 👋 Olá!
-Sou o Felipe, desenvolvedor de software com foco no ecossistema **Java**. Minha paixão é construir aplicações backend eficientes e robustas utilizando tecnologias como **Spring Boot**.
+Sou o Felipe, desenvolvedor de software com foco no ecossistema Java, especializado em construir aplicações backend eficientes e robustas com Spring Boot..
 
 ## 🚀 Sobre Mim
 - 📚 Estudando Java, Spring Framework e boas práticas de Programação Orientada a Objetos.
