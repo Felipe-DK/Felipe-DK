@@ -18,7 +18,7 @@ Sou Felipe, estudante de **Análise e Desenvolvimento de Sistemas**, atualmente 
 ## 📫 Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/luiz-felipe-004147280/">
+  <a href="https://www.linkedin.com/in/luiz-felipe-dk/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dfelipedev@gmail.com">
