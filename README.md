@@ -1,19 +1,22 @@
-## 👋 Olá!
-Sou o Felipe, desenvolvedor de software com foco no ecossistema Java, especializado em construir aplicações backend eficientes e robustas com Spring Boot.
+# 👋 Olá!
 
-## 🚀 Sobre Mim
-- 📚 Estudando Java, Spring Framework e boas práticas de Programação Orientada a Objetos.
-- 🔍 Interesse em desenvolvimento de APIs RESTful, arquitetura de microsserviços e acesso a dados com JPA/Hibernate.
-- 🌱 Buscando constantemente aprimorar minhas habilidades com novos desafios e projetos práticos.
+Sou Felipe, estudante de **Análise e Desenvolvimento de Sistemas**, atualmente focado em me tornar **ServiceNow Developer** e continuar minha formação em **desenvolvimento Java**.
 
-## 🛠️ Tecnologias e Ferramentas
-[![Java](https://img.shields.io/badge/-Java-E96424?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+## 📚 Atualmente estudando
 
+* ☁️ **ServiceNow** — ServiceNow Fundamentals e desenvolvimento na plataforma
+* ☕ **Java** — Fundamentos, POO e desenvolvimento de aplicações
+* 🟨 **JavaScript** — Fundamentos e lógica de programação
+
+## 🛠️ Tecnologias
+
+[![Java](https://img.shields.io/badge/-Java-E96424?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ServiceNow](https://img.shields.io/badge/-ServiceNow-81B5A1?style=for-the-badge\&logo=servicenow\&logoColor=white)](https://www.servicenow.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
 
 ## 📫 Contato
+
 <div>
   <a href="https://x.com/epilef___">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
